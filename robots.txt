@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uishoyin.github.io/sitemap.html.gz
+Sitemap: https://uishoyin.github.io/app/sitemap.html.gz
+Sitemap: https://uishoyin.github.io/assets/sitemap.html.gz
+Sitemap: https://uishoyin.github.io/css/sitemap.html.gz
+Sitemap: https://uishoyin.github.io/includes/sitemap.html.gz
+Sitemap: https://uishoyin.github.io/item/sitemap.html.gz
+Sitemap: https://uishoyin.github.io/src/sitemap.html.gz
